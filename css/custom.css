@@ -1,6 +1,14 @@
-.content p {
+body {
+  margin: 1em 0 0 0;
+}
+
+p {
   color: black;
   font-size: 23px;
   font-family: 'Kalam', cursive;
   line-height: 28px;
+}
+
+h3 {
+  margin: 0 0 1em 0;
 }
